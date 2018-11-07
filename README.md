@@ -1,2 +1,2 @@
-# GOO(GUESS ONE OPTION)
+# (GUESS ONE OPTION)
 Django MCQ Module 
